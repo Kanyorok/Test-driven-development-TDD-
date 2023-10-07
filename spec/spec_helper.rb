@@ -1,1 +1,1 @@
-require_relative '../codebase/solver.rb'
+require_relative '../codebase/solver'
