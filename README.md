@@ -19,10 +19,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖OOP school library <a name="about-project"></a>
+# 📖Test Driven Development<a name="about-project"></a>
 
-In this project, I started building a school library app. In this initial step, I implemented the classes to represent students and teachers.
-**OOP school library** is a ruby software.
+In this project we implemented a class with some methods, but we did it by doing test-driven development (TDD). The idea was to write tests first and then the code. This could be verified in the commits history, so it was important to use the proper sequence.
+**Test Driven Development** is a ruby software.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,10 +38,9 @@ In this project, I started building a school library app. In this initial step, 
 
 ### Key Features <a name="key-features"></a>
 
-- **Intro to Classes**
-- **Create the person class, student and teacher**
+- **Use of Classes in Ruby**
+- **Create the factorial, reverse, fizzbuzz**
 - **Unit Tests**
-- **Basic UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,8 +67,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/maths29/OOP-school-library
-  cd OOP-school-library
+  git clone https://github.com/Kanyorok/Test-driven-development-TDD-.git
+  cd Test-driven-development-TDD-
 ```
 
 ### Usage
@@ -115,7 +114,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/maths29/OOP-school-library/issues).
+Feel free to check the [issues page](https://github.com/Kanyorok/Test-driven-development-TDD-/issues).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
